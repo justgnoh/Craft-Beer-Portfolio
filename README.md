@@ -4,6 +4,9 @@ This is a personal project for my interest in craft beer.
 
 This was supposed to be a progressive web app...but i'll still need to figure that part out... The course I was following to build this PWA was pretty vague on the PWA part, but HTML, CSS and Javascript tutorials were useful. 
 
+## Demo
+https://justins-craft-beer-portfolio.netlify.app/
+
 ## API Used
 https://www.openbrewerydb.org/
 
